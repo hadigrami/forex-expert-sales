@@ -51,8 +51,8 @@
 
 <section>
     <h2>Pricing & Purchase</h2>
-    <p>Price: $199 USD</p>
-    <p>Click the button below to pay via PayPal (through trusted friend) or Crypto:</p>
+    <p>Price: $10 USD</p>
+    <p>To purchase this expert, you can click on the link below and transfer the amount to my wallet:</p>
     <a class="buy-button" href="YOUR_PAYMENT_LINK" target="_blank">Buy Now</a>
 </section>
 
